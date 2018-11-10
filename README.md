@@ -4,7 +4,7 @@ My exploration of GitHub and More...
 Lover of science fiction, science, math, and the areas where art intersects the three.
 And like any true scientist, a cynic and a skeptic.
 Worked in professions the past ten years and still seeking professionals.
-Organizations stopping me, and saying not to go. Holding my back.
+Organizations stopping me, and saying not to go. Holding me back.
 Time to rip off these chains and use them as nunchucks.
 Going hard in the paint. Lights above me. Court below.
 Dunk.
