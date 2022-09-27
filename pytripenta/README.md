@@ -1,0 +1,1 @@
+I was asked "could you make a vector graphic in python of a triangle and a pentagon where their topmost vertex is the same point and their height is the same?" While not a vector graphic, I provided a solution using TURTLES.
