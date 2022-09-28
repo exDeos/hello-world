@@ -6,7 +6,7 @@ home_folder = mapi.Folders['mine'].Folders['Inbox'].Folders['0_trash_sifter']
 CONSTS = {'SMTP_ADDRESS':"http://schemas.microsoft.com/mapi/proptag/0x39FE001E", \
     'ADDRESS_TYPE':"http://schemas.microsoft.com/mapi/proptag/0x39050003"}
 
-with open(r'C:\users\drumschl\desktop\hoobadooba.txt','w') as f:
+with open(r'path\hoobadooba.txt','w') as f:
     for j in home_folder.Items:
         ignore_var = f.write('====NEW-ITEM====\n')
         try:
