@@ -20,7 +20,7 @@ def smash_it(X,t):
     if len(X)%2==1:
         center_attack= (len(X)+1)//2
         logging.info("Attack Length= {}".format(center_attack))
-        Q= itertools.combinations(X,right_side_attack)
+        Q= itertools.combinations(X,center_attack)
         for k in Q:
             best= check(k,best,t)
     return best
